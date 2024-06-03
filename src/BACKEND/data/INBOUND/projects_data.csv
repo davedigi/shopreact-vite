@@ -1,0 +1,604 @@
+id,title,start_date,end_date,is_published,retailer,category
+1,titolo proj DD,2024-04-26,2024-05-06,1,proj DD,web developing
+2,titolo,2024-05-02,2024-12-15,1,proj FF,web designer
+3,titolo,2024-05-02,2024-12-13,1,Ok Market,web designer
+4,titolo proj ASS2,2024-04-02,2024-12-13,1,proj ASS2,web designer
+5,titolo proj,2024-04-02,2024-12-13,1,proj ASS2,web designer
+6,titolo proj,2024-04-02,2024-05-01,1,proj ASS2,web designer
+7,titolo progetto,2024-05-02,2024-12-14,1,proj ASS2,web designer
+8,titolo ,2024-05-02,2024-12-16,1,proj ASS2,web designer
+9,titolo ,2024-05-03,2024-12-16,0,proj ASS2,web designer
+10,titolo,2024-05-02,2024-12-13,1,proj ASS2,web designer
+11,titolo,2024-05-03,2024-12-16,1,proj ASS2,web designer
+12,titolo progetto,2024-05-02,2024-12-14,1,proj ASS2,web designer
+13,titolo,2024-05-01,2024-12-14,1,proj HH,web developing
+14,titolo,2024-05-01,2024-12-14,0,proj HH,web developing
+15,titolo,2024-05-01,2024-12-14,0,proj HH,web developing
+16,titolo,2024-05-01,2024-12-14,0,proj HH,web developing
+17,titolo,2024-05-01,2024-12-14,0,proj HH,web developing
+18,titolo,2024-05-01,2024-12-14,0,proj HH,web developing
+19,titolo,2024-05-01,2024-12-14,0,proj HH,web developing
+20, titolo,2024-05-04,2024-12-15,1,A&O,web designer
+21,titolo,2024-05-02,2024-12-14,1,proj LL,web designer
+22,titolo,2024-05-02,2024-12-13,1,proj DD,web developing
+23,titolo,2024-05-02,2024-12-13,0,proj DD,web developing
+24,titolo,2024-05-02,2024-12-13,0,Mproj DD,web developing
+25,titolo,2024-05-02,2024-12-13,0,Mproj DD,web developing
+26,titolo,2024-05-02,2024-12-13,0,Mproj DD,web developing
+27,titolo,2024-05-02,2024-12-13,0,Mproj DD,web developing
+28,titolo,2024-05-02,2024-12-13,0,Mproj DD,web developing
+29,titolo,2024-05-02,2024-12-13,0,Mproj DD,web developing
+30,titolo,2024-05-02,2024-12-13,0,Mproj DD,web developing
+31,titolo,2024-05-02,2024-12-13,1,Mproj DD,web developing
+32,titolo,2024-05-02,2024-12-13,1,Mproj DD,web developing
+33,titolo,2024-05-02,2024-12-13,1,Mproj DD,web developing
+34,titolo,2024-05-02,2024-12-13,1,proj DD,web developing
+35,titolo,2024-05-02,2024-12-13,1,proj DD,web developing
+36,titolo,2024-05-02,2024-12-13,1,proj DD,web developing
+37,titolo,2024-05-02,2024-12-13,1,proj DD,web developing
+38,titolo,2024-05-02,2024-12-13,1,proj DD,web developing
+39,titolo,2024-05-02,2024-12-13,1,proj DD,web developing
+40,titolo,2024-05-02,2024-12-13,1,proj DD,web developing
+41,titolo,2024-05-03,2024-05-30,1,- proj ASS2,web
+42,titolo,2024-05-02,2024-05-29,1,- proj ASS2,web
+43,titolo,2024-05-03,2024-05-30,1,- proj ASS2,web
+44,titolo,2024-05-02,2024-05-28,1,- proj ASS2,web
+45,titolo,2024-05-03,2024-05-30,1,- proj ASS2,web
+46,occasione,2024-05-02,2024-05-20,1,proj dgf,analisi SW
+47,titolo,2024-05-04,2024-05-19,1,proj rgr,analisi SW
+48,titolo,2024-05-02,2024-05-20,1,proj,analisi SW
+49,titolo,2024-05-02,2024-12-14,1, proj ASS2,web designer
+50,titolo,2024-05-03,2024-12-16,1, proj ASS2,web designer
+51,titolo,2024-05-03,2024-12-16,1, proj ASS2,web designer
+52,titolo,2024-05-03,2024-12-16,1, proj ASS2,web designer
+53,titoo,2024-05-02,2024-05-20,1,proj analisi,analisi SW
+54,titolo,2024-05-03,2024-12-13,1,proj WD,web designer
+55,titolo,2024-05-01,2024-05-31,1,proj ANA,analisi SW
+56,titolo,2024-05-03,2024-12-13,1,proj WEBD,web designer
+57,titolo,2024-05-02,2024-05-12,1,proj PD,web developing
+58,titolo,2024-05-02,2024-12-13,1,proj NI,web designer
+59,titolo,2024-05-02,2024-12-13,1,proj NI,web designer
+60,titolo,2024-05-02,2024-12-13,1,proj NI,web designer
+61,titolo,2024-05-02,2024-12-13,1,proj SID,web designer
+62,titolo,2024-05-02,2024-12-13,1,proj SID,web designer
+63,Al titolo,2024-05-02,2024-12-15,1,proj PM,web designer
+64,titolo al titolo,2024-05-02,2024-12-15,1,proj WD,web designer
+65,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+66,Sotto titolo,2024-05-03,2024-12-16,1,proj ASS2 City,web designer
+67,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+68,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+69,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+70,Sotto titolo,2024-05-02,2024-12-14,1,proj ASS2 City,web designer
+71,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+72,Sotto titolo,2024-05-03,2024-12-16,1,proj ASS2 City,web designer
+73,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+74,Sotto titolo,2024-05-03,2024-12-16,1,proj ASS2 City,web designer
+75,titolo,2024-04-23,2024-12-01,1,PerDormire,web develop
+76, marche al ,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+77, marche al ,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+78,titolo proj ASS2 -,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+79,titolo proj ASS2 -,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+80, marche al ,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+81, marche al ,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+82,titolo proj ASS2 -,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+83,titolo proj ASS2 -,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+84,titolo proj ASS2 -,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+85, marche al ,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+86, marche al ,2024-05-03,2024-12-16,1,proj ASS2 -,web designer
+87,titolo  2 al 12  2018,2024-05-02,2024-05-12,1,Qui web developing,web developing
+88,Sotto titolo,2024-05-02,2024-12-13,1,Proj ASS3,web designer
+89,Sotto titolo,2024-05-02,2024-12-13,1,Proj ASS3,web designer
+90,4 al 29 ,2024-05-04,2024-05-29,1,Kuadrifoglio,analisi SW
+91,titolo proj ASS2  ,2024-05-03,2024-12-16,1,proj ASS2  ,web designer
+92,titolo al ,2024-05-02,2024-12-13,1,proj ASS2  ,web designer
+93,- su tanti progetto,2024-05-02,2024-12-14,1,proj ASS2  ,web designer
+94,titolo al ,2024-05-02,2024-12-13,1,proj ASS2  ,web designer
+95,Tanti progetto al ,2024-05-03,2024-12-16,1,proj ASS2  ,web designer
+96,titolo al ,2024-05-02,2024-12-13,1,proj ASS2  ,web designer
+97,Tanti progetto al ,2024-05-03,2024-12-16,1,proj ASS2  ,web designer
+98,Tanti progetto al ,2024-05-03,2024-12-16,1,proj ASS2  ,web designer
+99,titolo proj ASS2  ,2024-05-02,2024-12-13,1,proj ASS2  ,web designer
+100,titolo proj ASS2  ,2024-05-03,2024-12-16,1,proj ASS2  ,web designer
+101,titolo proj ASS2  ,2024-05-02,2024-12-13,1,proj ASS2  ,web designer
+102,titolo proj ASS2  ,2024-05-03,2024-12-16,1,proj ASS2  ,web designer
+103,titolo proj ASS2  ,2024-05-03,2024-12-16,1,proj ASS2  ,web designer
+104,titolo proj ASS2  ,2024-05-03,2024-12-16,1,proj ASS2  ,web designer
+105,titolo ,2024-05-03,2024-05-12,1,Proj AN,analisi SW
+106,Super titolo per un titolo ,2024-05-02,2024-12-13,1,Gran ,web designer
+107,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+108,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+109,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+110,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+111,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+112,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+113,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+114,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+115,3x2,2024-05-03,2024-12-16,0, proj CO,web designer
+116,3x2,2024-05-03,2024-12-16,0, proj CO,web designer
+117,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+118,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+119,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+120,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+121,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+122,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+123,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+124,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+125,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+126,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+127,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+128,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+129,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+130,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+131,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+132,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+133,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+134,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+135,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+136,titolo,2024-05-03,2024-05-16,1, proj CO,web designer
+137,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+138,3x2,2024-05-03,2024-12-16,0, proj CO,web designer
+139,titolo,2024-05-03,2024-12-16,0, proj CO,web designer
+140,titolo,2024-05-03,2024-12-16,0, proj CO,web designer
+141,titolo,2024-05-03,2024-12-16,0, proj CO,web designer
+142,titolo,2024-05-03,2024-12-16,0, proj CO,web designer
+143,3x2,2024-05-03,2024-12-16,0, proj CO,web designer
+144,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+145,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+146,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+147,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+148,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+149,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+150,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+151,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+152,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+153,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+154,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+155,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+156,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+157,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+158,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+159,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+160,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+161,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+162,titolo ,2024-05-03,2024-12-16,1, proj CO,web designer
+163,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+164,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+165,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+166,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+167,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+168,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+169,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+170,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+171,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+172,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+173,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+174,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+175,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+176,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+177,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+178,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+179,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+180,titolo ,2024-05-03,2024-12-16,1, proj CO,web designer
+181,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+182,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+183,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+184,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+185,    titolo,2024-05-02,2024-12-16,1,proj,analisi SW
+186,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+187,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+188,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+189,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+190,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+191,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+192,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+193,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+194,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+195,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+196,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+197,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+198,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+199,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+200,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+201,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+202,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+203,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+204,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+205,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+206,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+207,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+208,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+209,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+210,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+211,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+212,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+213,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+214,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+215,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+216,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+217,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+218,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+219,titolo,2024-05-02,2024-05-31,1,proj CO,web designer
+220, 2018,2024-05-02,2024-05-31,1,proj FARM,web developing
+221,titolo ,2024-05-02,2024-05-12,1,proj,analisi SW
+225,  titolo sempre,2024-05-03,2024-12-16,1,proj,web designer
+228,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+229,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+230,Sotto titolo,2024-05-03,2024-05-12,1,proj ASS2 City,web designer
+231,titolo,2024-05-02,2024-12-15,1,proj,web designer
+232,titolo  ,2024-05-03,2024-12-13,1,proj ASS2,web designer
+233,titolo  ,2024-05-03,2024-12-13,1,proj ASS2,web designer
+234,titolo  ,2024-05-03,2024-12-13,1,proj ASS2,web designer
+235,titolo   CIA,2024-05-03,2024-12-13,1,proj ASS2  ,web designer
+236,titolo   CIA,2024-05-03,2024-12-13,1,proj ASS2  ,web designer
+237,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+238,titolo   CIA,2024-05-03,2024-12-13,1,proj ASS2  ,web designer
+239,titolo ,2024-05-03,2024-12-13,1,proj ASS2 -,web designer
+240,titolo ,2024-05-03,2024-12-13,1,proj ASS2 -,web designer
+241,titolo ,2024-05-03,2024-12-13,1,proj ASS2 -,web designer
+242,Sotto titolo,2024-05-02,2024-05-10,1,Simply Market,web designer
+243,Sotto titolo,2024-05-02,2024-05-10,1,Simply Market,web designer
+244,Sotto titolo,2024-05-02,2024-05-10,1,Punto Simply,web designer
+245,Sotto titolo,2024-05-02,2024-05-10,1,Simply Market,web designer
+246,Sotto titolo,2024-05-02,2024-05-10,1,Simply Market,web designer
+248, titolo,2024-05-02,2024-12-15,1,proj  ,web designer
+249, titolo,2024-05-03,2024-12-16,1,proj FAM,web designer
+250,titolo   ,2024-05-03,2024-12-16,1,proj,web designer
+251,titolo,2024-05-01,2024-05-31,1,proj WWDD,web designer
+252,titolo,2024-05-03,2024-12-16,1,proj 252  ,web designer
+253,titolo,2024-05-02,2024-12-13,1,proj 253,web designer
+254,titolo,2024-05-02,2024-12-13,1,proj 254,web designer
+255,titolo,2024-05-03,2024-04-03,0,proj 255,analisi SW
+256,titolo,2024-05-02,2024-12-13,1,proj,web designer
+257,titolo,2024-05-03,2024-12-16,1,proj,web designer
+258,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+259,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+260,titolo ,2024-05-03,2024-12-13,1,proj INT,web designer
+261,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+262,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+263,titolo ,2024-05-04,2024-12-15,1,proj,web designer
+264,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+265,titolo,2024-05-03,2024-05-20,0,design,grafica
+266,titolo ,2024-05-03,2024-12-13,1,proj INT,web designer
+267,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+268,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+270,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+271,titolo,2024-05-03,2024-12-16,1,proj IP,web designer
+276,titolo,2024-05-03,2024-12-16,1,proj SK,web develop
+277,titolo,2024-05-03,2024-05-23,0,proj TR,hardware
+278,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+279, titolo proj TR,2024-05-03,2024-05-23,1,proj TR,hardware
+280,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+281,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+282,titolo proj TR,2024-05-03,2024-05-23,1,proj TR,hardware
+283,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+284,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+285,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+286,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+287,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+288,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+289,titolo,2024-05-03,2024-05-19,1,proj TU,analisi SW
+290,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+291,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+292,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+293,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+294,titolo,2024-05-03,2024-05-12,1,proj,analisi SW
+295,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+296,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+297,titolo,2018-05-03,2018-05-09,1,proj Manager,web developing
+298,titolo,2024-04-30,2024-05-12,1,Kanguro,web designer
+299,titolo,2024-05-03,2024-12-16,1,proj INT,web designer
+300,titolo proj TR,2024-05-03,2024-05-23,1,proj TR,hardware
+301,titolo  titolo,2024-05-03,2024-12-16,1,proj INT,web designer
+302,Sottotitolo,2024-05-03,2024-05-12,1,proj,web designer
+303,titolo,2024-05-03,2024-12-16,1,proj INT,web designer
+304,Sottotitolo,2024-05-03,2024-05-12,1,Oasi,web designer
+310,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+311,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+312,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+313,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+314,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+315,Sottotitolo,2024-05-03,2024-12-16,1, proj CO,web designer
+316,titolo ,2024-05-03,2024-12-16,1, proj CO,web designer
+317,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+318,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+319,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+320,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+321,titolo ,2024-05-03,2024-12-16,1,proj INT,web designer
+322,titolo,2024-05-03,2024-12-16,1,proj INT,web designer
+324,titolo,2024-05-02,2024-12-15,1,proj FAM,web designer
+325,titolo,2024-05-02,2024-12-15,1,proj FAM,web designer
+326,titolo,2024-05-02,2024-12-15,1,proj FAM,web designer
+327,titolo,2024-05-02,2024-12-15,1,proj FAM,web designer
+328,titolo,2024-05-03,2024-12-16,1,proj FAM,web designer
+329,titolo,2024-05-02,2024-12-15,1,proj FAM,web designer
+330,titolo,2024-05-03,2024-12-16,1,proj FAM,web designer
+331,titolo,2024-05-03,2024-12-16,1,proj FAM,web designer
+343,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+344,titolo,2024-05-02,2024-05-12,1,proj SID,web designer
+345,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+346,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+347,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+348, titolo,2024-05-02,2024-05-10,1,proj,web designer
+349, titolo,2024-05-02,2024-05-10,1,proj,web designer
+350, titolo,2024-05-02,2024-05-10,1,proj,web designer
+351, titolo,2024-05-02,2024-05-10,1,proj,web designer
+352,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+353,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+354,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+358,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+364,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+365,titolo,2024-05-02,2024-05-31,1,proj CONC,web developing
+367,titolo,2024-05-03,2024-12-16,1,proj,web designer
+368,titolo   ,2024-05-02,2024-12-16,1,proj,web designer
+369,Sottotitolo,2024-05-03,2024-12-15,1,proj,web developing
+370,Sottotitolo,2024-05-03,2024-12-15,1,proj,web developing
+371,titolo ,2024-05-03,2024-12-16,1,proj,web designer
+372,titolo,2024-04-30,2024-12-13,1,tproj,web designer
+373,  titolo,2024-05-02,2024-12-13,1,proj,web designer
+374,titolo   ,2024-05-02,2024-12-16,1,proj,web designer
+375,titolo   ,2024-05-02,2024-12-16,1,proj,web designer
+376,Il  del ,2018-05-02,2018-05-10,1,Pewex,web designer
+377,titolo ,2018-05-02,2018-05-10,1,Sacoph,web designer
+378,titolo ,2018-05-02,2018-05-10,1,Sacoph,web designer
+381,titolo   ,2024-05-02,2024-12-16,1,proj,web designer
+382,titolo   ,2024-05-02,2024-12-16,1,proj,web designer
+383,e-Bike e-Bonus,2024-05-04,2024-12-17,1,Sportler,Sport e Moda
+384,titolo  ,2024-05-03,2024-12-13,1,proj,web designer
+385,titolo  ,2024-05-03,2024-12-13,1,proj,web designer
+386,titolo  ,2024-05-03,2024-12-13,1,proj,web designer
+397,titolo  ,2024-04-30,2024-12-13,1,proj,web designer
+398,titolo  ,2024-04-30,2024-12-13,1,proj,web designer
+399,titolo  ,2024-04-30,2024-12-13,1,proj,web designer
+400,titolo  ,2024-04-30,2024-12-13,1,proj,web designer
+401,titolo  ,2024-05-02,2024-12-13,1,proj,web designer
+406,titolo ,2024-05-03,2024-12-16,1,proj,web designer
+407,titolo ,2024-05-03,2024-12-16,1,proj,web designer
+409,titolo ,2024-05-03,2024-12-16,1,proj,web designer
+410,titolo ,2024-05-03,2024-12-16,1,proj,web designer
+411,titolo   proj,2024-05-03,2024-12-16,1,proj,web designer
+413,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+414,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+415,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+416,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+417,titolo ,2024-05-03,2024-12-16,1,proj,web designer
+418,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+419,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+420,titolo ,2024-05-03,2024-12-16,1,proj,web designer
+421,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+422,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+427,titolo,2024-05-03,2024-12-16,1,proj,web designer
+428,titolo,2024-05-03,2024-12-16,1,proj,web designer
+429,titolo,2024-05-03,2024-12-16,1,proj,web designer
+437,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+438,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+439,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+440,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+441,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+442,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+445,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+446,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+447,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+448,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+449,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+450,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+451,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+452,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+453,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+454,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+455,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+456,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+457,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+458,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+459,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+460,titolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+461,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+462,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+463,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+464,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+465,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+466,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+467,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+468,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+469,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+470,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+471,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+472,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+473,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+474,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+475,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+476,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+477,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+478,Sottotitolo,2024-05-03,2024-12-13,1,proj aSS4,web designer
+479,titolo  ,2024-05-03,2024-12-13,1,proj,web designer
+481,titolo  ,2024-05-03,2024-12-13,1,proj,web designer
+482,Sottotitolo,2024-05-03,2024-12-16,1, proj CO,web designer
+483,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+484,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+485,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+486,titolo  ,2024-05-03,2024-12-13,1,proj,web designer
+487,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+488,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+489,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+490,titolo,2024-05-03,2024-12-13,1,proj,web designer
+491,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+492,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+493,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+494,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+495,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+496,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+497,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+498,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+499,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+500,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+501,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+502,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+503,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+504,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+505,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+506,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+507,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+508,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+509,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+510,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+511,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+512,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+513,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+514,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+515,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+516,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+517,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+518,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+519,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+520,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+521,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+522,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+523,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+524,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+525,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+526,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+527,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+528,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+529,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+530,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+531,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+532,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+533,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+534,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+535,titolo ,2024-05-03,2024-12-16,1, proj CO,web designer
+536,titolo,2024-05-03,2024-12-15,1, proj CO,web designer
+537,titolo,2024-05-03,2024-12-15,1, proj CO,web designer
+538,titolo proj S,2024-05-03,2024-12-16,1,proj S,web designer
+539,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+540,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+541,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+542,titolo titolo,2024-05-03,2024-12-16,1,proj,web designer
+543,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+544,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+545,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+546,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+547,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+548,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+586,titolo proj Extra,2024-05-03,2024-12-16,1,proj,web designer
+587,titolo  ,2024-05-03,2024-12-16,1,proj EM,web designer
+588,titolo  ,2024-05-03,2024-12-16,1,proj EM,web designer
+589,titolo  ,2024-05-03,2024-12-16,1,proj EM,web designer
+590,titolo  ,2024-05-03,2024-12-16,1,proj EM,web designer
+591,titolo  ,2024-05-03,2024-12-16,1,proj EM,web designer
+592,titolo proj Extra,2024-05-03,2024-12-16,1,proj,web designer
+595,titolo  ,2024-05-03,2024-12-15,1,proj,web designer
+597, titolo,2024-05-03,2024-12-16,1,proj,web designer
+598, titolo,2024-05-03,2024-12-16,1,proj,web designer
+599, titolo,2024-05-03,2024-12-16,1,proj,web designer
+600, titolo,2024-05-03,2024-12-16,1,proj,web designer
+601, titolo,2024-05-03,2024-12-16,1,proj,web designer
+602,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+603,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+604,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+605,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+606,titolo proj ,2024-05-03,2024-12-16,1,proj,web designer
+607,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+608,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+609,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+610,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+611,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+615,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+616,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+619,titolo proj Extra,2024-05-03,2024-12-16,1,proj,web designer
+620,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+621,titolo  ,2024-05-03,2024-12-16,1,B proj,web designer
+622,titolo  ,2024-05-03,2024-12-16,1,B proj,web designer
+623,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+624,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+625,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+626,Da proj TR ,2024-05-03,2024-05-23,1,proj TR,hardware
+627,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+630,titolo  ,2024-05-03,2024-12-16,1,proj,web designer
+653,Sottotitolo,2018-04-26,2018-05-09,1,proj aSS4,web designer
+657,titolo  titolo ,2024-05-03,2024-12-16,1,proj,web designer
+658,titolo  titolo ,2024-05-03,2024-12-16,1,proj,web designer
+659,titolo  titolo ,2024-05-03,2024-12-16,1,proj,web designer
+660,titolo  titolo ,2024-05-03,2024-12-16,1,proj,web designer
+661,Sotto titolo,2024-05-10,2024-05-23,1,proj CO,web designer
+671,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+672,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+673,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+674,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+675,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+676,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+677,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+678,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+679,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+680,titolo,2024-05-03,2024-12-16,1, proj CO,web designer
+681,titolo titolo ,2024-05-03,2024-12-16,1, proj CO,web designer
+682,titolo titolo ,2024-05-03,2024-12-16,1, proj CO,web designer
+683,titolo titolo ,2024-05-03,2024-12-16,1, proj CO,web designer
+684,titolo titolo ,2024-05-03,2024-12-16,1, proj CO,web designer
+695,titolo  ,2024-05-03,2024-12-16,1,proj FAM,web designer
+696,titolo,2024-05-03,2024-12-16,1,proj,web designer
+697,titolo  ,2024-05-03,2024-12-16,1,proj FAM,web designer
+698,titolo 3 al 27  2018,2024-05-03,2024-05-27,1,Elite,web designer
+703,titolo  ,2024-05-03,2024-12-16,1,proj FAM  ,web designer
+704,Al titolo,2024-04-30,2024-05-12,1,proj PM,web designer
+706,titolo proj CO,2024-05-04,2024-12-14,1,proj CO,web designer
+723,titolo  ,2024-05-04,2024-12-17,1,proj,web designer
+741,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+742,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+743,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+744,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+745,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+746,Web Edition,2018-05-04,2018-05-10,1,proj HW,hardware
+747,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+748,titolo,2018-05-04,2018-05-10,1,proj HW,hardware
+749,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+750,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+751,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+752,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+753,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+754,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+755,titolo,2024-05-04,2024-05-04,1,proj HW,hardware
+756,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+757,titolo,2024-05-04,2024-05-31,1,proj HW,hardware
+758,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+759,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+760,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+761,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+762,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+763,titolo,2024-05-11,2024-05-31,1,proj HW,hardware
+764,titolo,2018-05-04,2018-05-10,1,proj HW,Telefonia
+765,titolo,2018-05-04,2018-05-10,1,proj HW,Telefonia 
+766,titolo,2018-05-04,2018-05-10,1,proj HW,Telefonia 
+767,titolo,2024-04-08,2024-12-15,1,proj ASS2,web designer
+768,titolo,2024-04-08,2024-12-15,1,proj ASS2 ,web designer
+769,titolo,2024-04-08,2024-12-15,1,proj ASS2 ,web designer
+770,titolo,2024-04-08,2024-12-15,1,proj ASS2,web designer
+771,titolo,2024-04-08,2024-12-15,1,proj ASS2,web designer
+782,titolo,2024-03-02,2024-12-14,1,proj DEC,web designer
+783,titolo,2024-05-04,2024-12-14,1,proj DEC,web designer
+784,titolo,2024-05-04,2024-12-14,1,proj DEC,web designer
+785,titolo,2024-05-04,2024-12-14,1,proj DEC,web designer
+786,titolo,2024-05-04,2024-12-14,1,proj DEC,web designer
+792,titolo ,2024-05-04,2024-12-14,1,proj SID,web designer
+793,titolo Super,2024-05-04,2024-12-16,1,proj ristrutturare,web designer
+794,titolo, 2024-05-04,2024-12-14,1,proj SID,web designer
+795,titolo ,2024-05-04,2024-12-14,1,Qui titolo,web designer
+796,titolo ,2024-05-04,2024-12-14,1,proj SID,web designer
+797,titolo ,2024-05-04,2024-12-14,1,Qui titolo,web designer
+798,titolo ,2024-05-04,2024-12-14,1,proj SID,web designer
+800,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+801,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+802,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+803,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+804,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+805,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+806,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+807,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+808,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+809,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+810,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+811,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+812,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+813,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+814,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+815,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+816,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
+817,titolo,2024-05-04,2024-12-31,1,proj BR,grafica
