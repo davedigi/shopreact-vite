@@ -1,9 +1,15 @@
 
 .menuIcon {
-    color: #ffffff;
-    width: 1.5rem;
-    height: 1.5rem;
-  }
+  color: #ffffff;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+cancelIcon {
+  color: #ffffff;
+  width: 1.0rem;
+  height: 1.0rem;
+}
 
 .favouriteIcon {
     color: #6B7280; 
