@@ -1,13 +1,25 @@
 import React, { useState } from 'react';
-import { MenuIcon, FavouriteOn } from '../image/WIMicons';
+import { MenuIcon, FavouriteOn, CancelIcon } from '../image/WIMicons';
 import './Navbar.css';
+import Modal from '../Modal/Modal';
 
 const firmName = <div className=""
     style={{ marginTop: 'auto', marginLeft: '1.5rem' }}>
     <span style={{ fontSize: 'xx-large', textColor: 'white' }}>WIM projects</span>
 </div>;
 
-const ShowFavourites = () => {
+function Button({ onClick, children }) {
+    return (
+      <button onClick={e => {
+        e.stopPropagation();
+        onClick();
+      }}>
+        {children}
+      </button>
+    );
+  }
+
+  const ShowFavourites = () => {
     let persistent = window.localStorage.getItem('projects_favourite')
     if (!persistent) {
         return <div>No Favourites found</div>
@@ -18,9 +30,10 @@ const ShowFavourites = () => {
         <>
             {
                 persistent.map((value, idx) => (
-                    < div key={value.id} style={{ margin: 'auto' }}>
+                    < div key={value.id} style={{ margin: '0 0 20px 0' }}>
                         <FavouriteOn />
                         <span style={{ margin: '1rem' }}>{value.title}</span>
+                        <Modal childToParent={value}/>
                     </div >
                 ))
             }
@@ -34,18 +47,17 @@ const Navbar = () => {
     return (
         <>
             <nav className="nav">
-                <div
-                    style={{ 'marginTop': 'auto' }}
+                <div className="nav-pointer"
                     onClick={() => setOpen(!open)}
                 >
-                    <MenuIcon />
+                    {open?<CancelIcon />:<MenuIcon />}
                 </div>
                 {firmName}
             </nav>
             <nav className="nav-mobile">
                 <div>
                     <div className="favourite-scroll" style={{ display: open ? "block" : "none" }} >
-                        <img src='/images/like.png' className="mobile-logo" alt='mobile logo' />
+                        <img src='/images/like.png' className="like-icon" alt='like-icon' />
                         <div className="favourite">
                             <span>Favourites</span>
                             <span>The list of your preferred PROJECTS</span>

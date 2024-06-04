@@ -15,6 +15,12 @@
     overflow-y: scroll; 
 }
 
+.nav-pointer {
+     margin-top: auto; 
+     cursor:pointer
+}
+
+
 .nav-mobile {
     position: fixed;    
     top: 60; 
@@ -28,14 +34,14 @@
 }
 
 .favourite-scroll {
-    height: 700px;
+    height: 620px;
     overflow-y: auto; 
 }
 
 .favourite{
     display: flex;
     flex-direction: column; 
-    margin:1rem;
+    margin:0.5rem;
 }
 
 .mobile-logo {
@@ -44,4 +50,9 @@
     padding: 0.5rem;
 }
 
+.like-icon {
+    border-radius: 8000px;  
+    margin-top: 4rem;
+    padding: 0.5rem;
+}
 
