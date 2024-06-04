@@ -110,7 +110,7 @@ function objAssign(csvrow) {
         start_date: csvrow[2],
         end_date: csvrow[3],
         is_published: csvrow[4],
-        retailer: csvrow[5],
+        projectn: csvrow[5],
         category: csvrow[6]
     }
     return obj;

@@ -1,4 +1,4 @@
-id,title,start_date,end_date,is_published,retailer,category
+id,title,start_date,end_date,is_published,projectn,category
 1,titolo proj DD,2024-04-26,2024-05-06,1,proj DD,web developing
 2,titolo,2024-05-02,2024-12-15,1,proj FF,web designer
 3,titolo,2024-05-02,2024-12-13,1,Ok Market,web designer
