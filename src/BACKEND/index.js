@@ -38,10 +38,10 @@ app.use(express.json());
 const __dirname = path.resolve();
 
 // create a write stream (in append mode)
-var debugLogStream = createWriteStream(join(__dirname + '/debug.log'), { flags: 'a' })
+// var debugLogStream = createWriteStream(join(__dirname + '/debug.log'), { flags: 'a' })
 
 // setup the logger
-app.use(morgan('combined', { stream: debugLogStream }))
+// app.use(morgan('combined', { stream: debugLogStream }))
 
 app.get('/', function (req, res) {
     console.log('Server projects is running')
@@ -142,3 +142,4 @@ function onError(error) {
     }
 }
 
+export default app;

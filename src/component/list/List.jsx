@@ -29,7 +29,8 @@ const List = ({ modifyChoices }) => {
         setTimeout(async () => {
             console.log('START FETCHING...');
             try {
-                const result = await fetch('http://localhost:8000/api/projects?page=' + page + '&limit=50', {
+                // const result = await fetch('http://localhost:8000/api/projects?page=' + page + '&limit=50', {
+                const result = await fetch('/api/projects?page=' + page + '&limit=50', {
                     method: "GET",
                     headers: {
                         Accept: "application/json",
