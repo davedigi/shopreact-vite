@@ -1,1 +1,1 @@
-web: node index.js
+web: cd src/BACKEND && node index.js
