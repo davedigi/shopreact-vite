@@ -1,11 +1,11 @@
 {
-  "name": "projects",
-  "version": "1.0.0",
+  "name": "shopreact-backen",
+  "version": "2.0.0",
   "description": "fullstack test",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon",
+    "start": "node index.js",
     "build": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
